@@ -12,7 +12,7 @@ An interactive Power BI dashboard that visualizes insights from a global survey 
 - Exported dashboard for portfolio and presentation use.
 
 ## 📁 Dataset Source
- <a href=https://github.com/JayaKrishna1008/Data-Career-Pulse-A-Visual-Story-with-Power-BI/blob/main/Raw%20data.xlsx> Raw Data</a>
+ <a href=https://github.com/JayaKrishna1008/Global-Data-Professional-Trends-A-Power-BI-Visualization/blob/main/Raw%20data.xlsx>Raw Data</a>
 
 ## 📌 Key Insights
 - USA and India have the highest number of survey participants
