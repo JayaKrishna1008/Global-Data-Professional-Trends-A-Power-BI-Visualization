@@ -23,7 +23,7 @@ An interactive Power BI dashboard that visualizes insights from a global survey 
 - Top job priorities: Remote Work & Better Salary.
 
 ## 📈 Dashboard
-![Dashborad Img](https://github.com/JayaKrishna1008/Data-Career-Pulse-A-Visual-Story-with-Power-BI/blob/main/Dashborad%20Img.png)
+![Dashborad Img](https://github.com/JayaKrishna1008/Global-Data-Professional-Trends-A-Power-BI-Visualization/blob/main/Dashborad%20Img.png)
 
 ## 🛠 Tools & Technologies
 - Power BI
